@@ -19,6 +19,3 @@ Route::get('/home', function () {
     return view('home');
 });
 
-Route::get('/blog', function () {
-    return view('home');
-});
